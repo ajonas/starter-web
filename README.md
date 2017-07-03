@@ -8,8 +8,10 @@ This example is to show different parts of the Git repository and various comman
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Purpose of this project is to show comparisons between commits.
 
 ## Deployment
+
+This is a simple web project and can be deployed to any web server.
 
 ## How To Contribute
