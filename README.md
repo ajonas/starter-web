@@ -18,4 +18,4 @@ This is a simple web project and can be deployed to any web server.
 
 ### Copyright
 
-2017 ajonas
+2017 Anthony Jonas
