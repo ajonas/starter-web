@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Anthony Jonas   ajonas82@gmail.com
 
 # THANKS
 
