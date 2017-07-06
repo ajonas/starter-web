@@ -15,3 +15,7 @@ Purpose of this project is to show comparisons between commits.
 This is a simple web project and can be deployed to any web server.
 
 ## How To Contribute
+
+### Copyright
+
+2017 ajonas
