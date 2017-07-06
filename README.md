@@ -16,6 +16,8 @@ This is a simple web project and can be deployed to any web server.
 
 ## How To Contribute
 
+Please fork this repo.
+
 ### Copyright
 
 2017 Anthony Jonas
