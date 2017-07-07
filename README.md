@@ -23,3 +23,4 @@ Please fork this repo.
 ### Copyright
 
 2017 Anthony Jonas
+All rights reserved.
